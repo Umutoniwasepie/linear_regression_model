@@ -8,7 +8,7 @@ class WeatherInput(BaseModel):
     humidity: float
     wind_speed: float
 
-# Initialize the FastAPI app
+# Initialization of the FastAPI app
 app = FastAPI()
 
 # Load the pre-trained model
