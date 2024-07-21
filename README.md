@@ -66,7 +66,7 @@ This project includes three main tasks:
     uvicorn prediction:app --reload
     ```
 3. Public API Endpoint
-The API is hosted on Render and is publicly accessible at: `https://fastapi-mi8f.onrender.com`.
+The API is hosted on Render and is publicly accessible when you click [HERE](https://fastapi-mi8f.onrender.com).
 
 ## API Endpoint
 Example:
