@@ -33,7 +33,7 @@ This project includes three main tasks:
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/your-username/weather-prediction.git](https://github.com/Umutoniwasepie/linear_regression_model.git)
+    git clone [https://github.com/Umutoniwasepie/linear_regression_model.git]
     cd linear_regression_model
     ```
 
